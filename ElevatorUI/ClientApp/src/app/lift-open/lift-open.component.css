@@ -1,0 +1,28 @@
+.building {
+  width: 154px;
+  height: 518px;
+  background-color:gold;
+  margin-left:10px;
+  margin-top: 20px;
+}
+.rightDoor {
+  width: 75px;
+  height: 130px;
+  background-color:brown;
+  align-content:end;
+  
+}
+.leftDoor {
+  width: 75px;
+  height: 130px;
+  background-color: brown;
+  align-content: start;
+}
+.lift {
+  width: 154px;
+  height: 130px;
+  background-color:hotpink;
+  display: flex;
+  flex-direction: row;
+  gap:3px;
+}

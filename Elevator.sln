@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorUI", "ElevatorUI\ElevatorUI.csproj", "{272EBE73-E168-43DF-ABC8-C347AAEA2654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "El.WebApiProject", "El.WebApiProject\El.WebApiProject.csproj", "{3C84DCC5-7E52-40B7-ADB8-695303DE7908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272EBE73-E168-43DF-ABC8-C347AAEA2654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272EBE73-E168-43DF-ABC8-C347AAEA2654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272EBE73-E168-43DF-ABC8-C347AAEA2654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272EBE73-E168-43DF-ABC8-C347AAEA2654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C84DCC5-7E52-40B7-ADB8-695303DE7908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C84DCC5-7E52-40B7-ADB8-695303DE7908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C84DCC5-7E52-40B7-ADB8-695303DE7908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C84DCC5-7E52-40B7-ADB8-695303DE7908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36B53663-BCEB-4CF3-8FE0-40A5CBB437EB}
+	EndGlobalSection
+EndGlobal
